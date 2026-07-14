@@ -1,0 +1,212 @@
+{
+    "genesis": {
+        "names": [
+            "Genesis",
+            "Gen",
+            "Ge"
+        ]
+    },
+    "exodus": {
+        "names": []
+    },
+    "leviticus": {
+        "names": []
+    },
+    "numbers": {
+        "names": []
+    },
+    "deuteronomy": {
+        "names": []
+    },
+    "joshua": {
+        "names": []
+    },
+    "judges": {
+        "names": []
+    },
+    "ruth": {
+        "names": []
+    },
+    "1-samuel": {
+        "names": []
+    },
+    "2-samuel": {
+        "names": []
+    },
+    "1-kings": {
+        "names": []
+    },
+    "2-kings": {
+        "names": []
+    },
+    "1-chronicles": {
+        "names": []
+    },
+    "2-chronicles": {
+        "names": []
+    },
+    "ezra": {
+        "names": []
+    },
+    "nehemiah": {
+        "names": []
+    },
+    "esther": {
+        "names": []
+    },
+    "job": {
+        "names": []
+    },
+    "psalms": {
+        "names": []
+    },
+    "proverbs": {
+        "names": []
+    },
+    "ecclesiastes": {
+        "names": []
+    },
+    "song-of-solomon": {
+        "names": []
+    },
+    "isaiah": {
+        "names": []
+    },
+    "jeremiah": {
+        "names": []
+    },
+    "lamentations": {
+        "names": []
+    },
+    "ezekiel": {
+        "names": []
+    },
+    "daniel": {
+        "names": []
+    },
+    "hosea": {
+        "names": []
+    },
+    "joel": {
+        "names": []
+    },
+    "amos": {
+        "names": []
+    },
+    "obadiah": {
+        "names": []
+    },
+    "jonah": {
+        "names": []
+    },
+    "micah": {
+        "names": []
+    },
+    "nahum": {
+        "names": []
+    },
+    "habakkuk": {
+        "names": []
+    },
+    "zephaniah": {
+        "names": []
+    },
+    "haggai": {
+        "names": []
+    },
+    "zechariah": {
+        "names": []
+    },
+    "malachi": {
+        "names": []
+    },
+    "matthew": {
+        "names": [
+            "Matthew",
+            "Mat",
+            "Mt"
+        ]
+    },
+    "mark": {
+        "names": []
+    },
+    "luke": {
+        "names": []
+    },
+    "john": {
+        "names": []
+    },
+    "acts": {
+        "names": [
+            "Acts",
+            "Act",
+            "At"
+        ]
+    },
+    "romans": {
+        "names": []
+    },
+    "1-corinthians": {
+        "names": []
+    },
+    "2-corinthians": {
+        "names": []
+    },
+    "galatians": {
+        "names": []
+    },
+    "ephesians": {
+        "names": []
+    },
+    "philippians": {
+        "names": []
+    },
+    "colossians": {
+        "names": []
+    },
+    "1-thessalonians": {
+        "names": []
+    },
+    "2-thessalonians": {
+        "names": []
+    },
+    "1-timothy": {
+        "names": []
+    },
+    "2-timothy": {
+        "names": []
+    },
+    "titus": {
+        "names": []
+    },
+    "philemon": {
+        "names": []
+    },
+    "hebrews": {
+        "names": []
+    },
+    "james": {
+        "names": []
+    },
+    "1-peter": {
+        "names": []
+    },
+    "2-peter": {
+        "names": []
+    },
+    "1-john": {
+        "names": []
+    },
+    "2-john": {
+        "names": []
+    },
+    "3-john": {
+        "names": []
+    },
+    "jude": {
+        "names": []
+    },
+    "revelation": {
+        "names": []
+    }
+}

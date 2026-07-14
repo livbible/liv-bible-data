@@ -34,7 +34,9 @@ We are focused on translating the new testament first as it contains more urgent
 ### Headings
 
     # Book Name
+
     ## Reserved for Chapter Headings
+
     ### Additional Headings
 
 ### Verse
@@ -91,6 +93,8 @@ Group new lines based on who is performing the action. Example:
   - `in case`
 - whom
   - `who`
+- before (in front of something)
+  - `in front of`
 
 Ending a sentence with "to" is acceptable if it sounds natural.
 
@@ -180,10 +184,22 @@ Use contractions as much as possible, but don't combine if they're two separate 
   - `be` `is` `was`
   - `come` `came`
   - `become` `became`
-  - `happen` `happened`
+  - `happen`
   - `do` `done`
 - g816
   - `gaze`
+- g2347
+ - `hardship`
+ - `suffering`
+ - `persecution`
+ - `tortured`
+ - g3908
+  - `set in front of`
+  - `laid out in front of`
+- g1577
+  - `group`
+- g3831
+  - `gathering`
 
 ### Hebrew
 

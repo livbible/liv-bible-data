@@ -1,0 +1,12 @@
+{
+    "tasks": {
+        "update-meta": "deno --allow-read --allow-write scripts/generate-meta.ts",
+        "format-scripts": "deno fmt scripts"
+    },
+    "fmt": {
+        "indentWidth": 4,
+        "lineWidth": 200,
+        "semiColons": false,
+        "quoteProps": "asNeeded"
+    }
+}

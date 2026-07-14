@@ -13,6 +13,7 @@
         "Antiochian",
         "Archelaus",
         "Arimathea",
+        "Attalia",
         "Azor",
         "Azotus",
         "Barachiah",
@@ -20,7 +21,6 @@
         "Bethphage",
         "Blastus",
         "Chaldeans",
-        "Charran",
         "Chorazin",
         "Cyrenians",
         "Derbe",
@@ -31,6 +31,7 @@
         "Gihon",
         "Girgashites",
         "Hamor",
+        "Haran",
         "Havilah",
         "Herodians",
         "Hezron",
@@ -84,5 +85,6 @@
         "Zerubbabel",
         "Zillah"
     ],
-    "editor.formatOnSave": false
+    "editor.formatOnSave": false,
+    "deno.enable": true
 }
