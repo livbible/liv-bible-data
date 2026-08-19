@@ -25,10 +25,6 @@ We are focused on translating the new testament first as it contains more urgent
 - Names for people/cities in Greek that were originally Hebrew should be based
   off of the original Hebrew names and not the Greek translations.
 
-### Before Committing
-
-- Search for all the Strong's and English Words listed in the [wording preferences](#wording-preferences) and replace any words if appropriate.
-
 ## Custom Markdown Format
 
 ### Headings
