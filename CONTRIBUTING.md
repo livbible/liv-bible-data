@@ -91,6 +91,8 @@ Group new lines based on who is performing the action. Example:
   - `who`
 - before (in front of something)
   - `in front of`
+- dwell (as in staying/living somewhere)
+  - `live`
 
 Ending a sentence with "to" is acceptable if it sounds natural.
 
@@ -168,48 +170,9 @@ Use contractions as much as possible, but don't combine if they're two separate 
   - `responded` (verb)
   - `answer` (noun)
   - `reply` (end)
-- g3661
-  - `passionate together`
-  - `fiercely together`
-- g2062
-  - `crawler`
-- g2974
-  - `mute`
-  - `deaf`
-- g1096
-  - `be` `is` `was`
-  - `come` `came`
-  - `become` `became`
-  - `happen`
-  - `do` `done`
-- g816
-  - `gaze`
-- g2347
- - `hardship`
- - `suffering`
- - `persecution`
- - `tortured`
- - g3908
-  - `set in front of`
-  - `laid out in front of`
-- g1577
-  - `group`
-- g3831
-  - `gathering`
 
 ### Hebrew
 
-- h8415
-    - `ocean`
-- h3220
-    - `sea`
-- h5921
-    - `on`
-    - `over`
-- h7431
-    - `crawler`
 - h7430
     - `crawls`
     - `glide` when referring to water animals.
-- h8435
-    - `descendants`

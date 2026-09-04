@@ -1,0 +1,396 @@
+{
+    "greek": {
+        "g1085": {
+            "words": [
+                "children",
+                "family",
+                "born",
+                "race",
+                "kind",
+                "kinds"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g4824": {
+            "words": [
+                "consultation"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g384": {
+            "words": [
+                "dismantle"
+            ],
+            "partOfSpeech": "verb"
+        },
+        "g2730": {
+            "words": [
+                "live",
+                "lives",
+                "lived",
+                "living",
+                "residents"
+            ]
+        },
+        "g2983": {
+            "words": [
+                "get",
+                "gets",
+                "getting",
+                "got",
+                "took",
+                "take",
+                "taking",
+                "had",
+                "accept",
+                "accepts"
+            ],
+            "partOfSpeech": "verb"
+        },
+        "g4173": {
+            "words": [
+                "mayor",
+                "mayors"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g2992": {
+            "words": [
+                "people",
+                "peoples"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g444": {
+            "words": [
+                "person",
+                "persons",
+                "human",
+                "humans",
+                "humanity",
+                "humanly",
+                "man",
+                "men",
+                "people"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g435": {
+            "words": [
+                "man",
+                "men",
+                "husband",
+                "husbands",
+                "persons"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g1135": {
+            "words": [
+                "woman",
+                "women",
+                "wife",
+                "wives"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g80": {
+            "words": [
+                "sibling",
+                "siblings",
+                "brother",
+                "brothers"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g79": {
+            "words": [
+                "sister",
+                "sisters"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g5043": {
+            "words": [
+                "child",
+                "children",
+                "son",
+                "sons"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g5207": {
+            "words": [
+                "son",
+                "sons",
+                "child",
+                "children"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g2364": {
+            "words": [
+                "daughter",
+                "daughters"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g846": [
+            "he",
+            "him",
+            "his",
+            "himself",
+            "she",
+            "her",
+            "herself",
+            "they",
+            "their",
+            "them",
+            "themselves",
+            "those",
+            "it",
+            "it's",
+            "its"
+        ],
+        "g5100": {
+            "words": [
+                "a",
+                "one",
+                "they",
+                "someone",
+                "anyone",
+                "some",
+                "certain",
+                "something",
+                "anything",
+                "some people",
+                "some things"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g165": {
+            "words": [
+                "age"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g5610": {
+            "words": [
+                "hour",
+                "hours",
+                "moment",
+                "moments",
+                "day",
+                "days"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g611": [
+            "respond",
+            "responded",
+            "answer",
+            "answered",
+            "reply"
+        ],
+        "g3661": [
+            "passionate together",
+            "fiercely together"
+        ],
+        "g2062": {
+            "words": [
+                "crawler",
+                "crawlers"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g2974": [
+            "mute",
+            "muteness",
+            "deaf",
+            "deafness"
+        ],
+        "g3688": {
+            "words": [
+                "donkey"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g5268": {
+            "words": [
+                "work animal"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g1096": {
+            "words": [
+                "be",
+                "being",
+                "been",
+                "is",
+                "it's",
+                "was",
+                "come",
+                "came",
+                "become",
+                "becomes",
+                "became",
+                "happen",
+                "happens",
+                "happened",
+                "happening",
+                "do",
+                "doing",
+                "done",
+                "performed",
+                "made",
+                "has",
+                "had"
+            ],
+            "partOfSpeech": "verb"
+        },
+        "g816": {
+            "words": [
+                "gaze",
+                "gazed",
+                "gazing"
+            ],
+            "partOfSpeech": "verb"
+        },
+        "g2347": {
+            "words": [
+                "hardship",
+                "hardships",
+                "suffering",
+                "persecution",
+                "tortured"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g58": {
+            "words": [
+                "plaza",
+                "plazas"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g1577": {
+            "words": [
+                "group",
+                "groups"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g3831": {
+            "words": [
+                "gathering"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g4803": {
+            "words": [
+                "debate"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g1555": {
+            "words": [
+                "explaining",
+                "tell",
+                "tells"
+            ],
+            "partOfSpeech": "verb"
+        },
+        "g1125": {
+            "words": [
+                "wrote",
+                "written"
+            ],
+            "partOfSpeech": "verb"
+        },
+        "g4202": {
+            "words": [
+                "fornication"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "g1991": {
+            "words": [
+                "strengthened",
+                "strengthening"
+            ],
+            "partOfSpeech": "verb"
+        },
+        "g3686": {
+            "words": [
+                "name",
+                "names",
+                "named",
+                "name's"
+            ]
+        },
+        "g2962": {
+            "words": [
+                "lord",
+                "lords",
+                "lord's",
+                "owner",
+                "owners",
+                "master",
+                "masters",
+                "master's",
+                "masters'"
+            ]
+        },
+        "g387": {
+            "words": [
+                "disturb",
+                "disturbed",
+                "disturbance",
+                "disturbing"
+            ]
+        },
+        "g5015": {
+            "words": [
+                "unsettle",
+                "unsettled"
+            ]
+        }
+    },
+    "hebrew": {
+        "h8415": {
+            "words": [
+                "ocean",
+                "oceans"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "h3220": {
+            "words": [
+                "sea",
+                "seas"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "h5921": [
+            "on",
+            "over"
+        ],
+        "h7431": {
+            "words": [
+                "crawler",
+                "crawlers"
+            ],
+            "partOfSpeech": "noun"
+        },
+        "h7430": [
+            "crawls",
+            "glide"
+        ],
+        "h8435": {
+            "words": [
+                "descendants"
+            ],
+            "partOfSpeech": "noun"
+        }
+    }
+}
